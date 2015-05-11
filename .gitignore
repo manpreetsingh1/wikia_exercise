@@ -1,0 +1,18 @@
+/target
+/test-output
+/bin
+/chromedriver.log
+# Compiled source #
+###################
+*.com
+*.class
+*.classpath
+*.project
+*.command
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
